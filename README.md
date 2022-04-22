@@ -1,4 +1,4 @@
-# Diabetes_feacture_engineering
+# Diabetes_feature_engineering
 Diabetes_feacture_engineering
 # DATA SET STORY
 It is part of a large data set held at the National Institutes of Diabetes-Digestive-Kidney Diseases in the US.
