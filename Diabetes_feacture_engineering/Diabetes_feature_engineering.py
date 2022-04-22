@@ -19,10 +19,8 @@ pd.set_option('display.width', None)
 pd.set_option('display.max_rows', 20)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
-from google.colab import drive
-drive.mount('/content/drive')
-path = '/content/drive/MyDrive/Python/VBO/diabetes.csv'
-df = pd.read_csv(path)
+df= pd.read_csv(r'C:\Users\ASUS\Desktop\DSMLBC-8\WEEK_6\diabetes.csv\diabetes.csv')
+
 
 df.head()
 ##################################################################
