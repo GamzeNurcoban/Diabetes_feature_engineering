@@ -1,4 +1,4 @@
-# DIABETES_fEATURE_ENGINEERING
+# DIABETES_FEATURE_ENGINEERING
 
 <img width="498" alt="image" src="https://user-images.githubusercontent.com/101832704/168174141-56b80792-ecf5-45cc-a263-dc639b11a0f7.png">
 
