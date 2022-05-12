@@ -1,6 +1,6 @@
 # Diabetes_feature_engineering
-Diabetes_feature_engineering
-<img width="467" alt="image" src="https://user-images.githubusercontent.com/101832704/168173816-81db7019-9bfc-4f02-93b7-3bad8cb73e26.png">
+
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/101832704/168174141-56b80792-ecf5-45cc-a263-dc639b11a0f7.png">
 
 # DATA SET STORY
 It is part of a large data set held at the National Institutes of Diabetes-Digestive-Kidney Diseases in the US.
