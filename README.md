@@ -1,5 +1,7 @@
 # Diabetes_feature_engineering
 Diabetes_feature_engineering
+<img width="467" alt="image" src="https://user-images.githubusercontent.com/101832704/168173816-81db7019-9bfc-4f02-93b7-3bad8cb73e26.png">
+
 # DATA SET STORY
 It is part of a large data set held at the National Institutes of Diabetes-Digestive-Kidney Diseases in the US.
 Pima Indian women aged 21 and over living in Phoenix, the 5th largest city in the U.S. State of Arizona
